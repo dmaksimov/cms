@@ -1,0 +1,17 @@
+{
+    "name": "dmaksimov/cms",
+    "authors": [
+        {
+            "name": "David Maksimov",
+            "email": "dmaksi@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cms\\": "src/"
+        }
+    }
+}
